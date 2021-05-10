@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "mypie-final",
+    "slug": "snack-4a14ddcd-449a-4422-915d-00f09702929e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.apg.snack4a14ddcd449a4422915d00f09702929e"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
